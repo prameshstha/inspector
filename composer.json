@@ -1,0 +1,15 @@
+{
+    "name": "hsemarp/inspector",
+    "description": "Monitoring and inspecting the performance of server.",
+    "autoload": {
+        "psr-4": {
+            "Hsemarp\\Inspector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pramesh"
+        }
+    ],
+    "require": {}
+}
